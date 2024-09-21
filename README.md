@@ -27,18 +27,18 @@ This project is a web crawler that collects information about doctors from [noba
 ## Installation
 1. Clone this repository:
   
-   ```git clone https://github.com/yourusername/Nobat-Doctor-Crawler.git```
-   ```cd Nobat-Doctor-Crawler```
+       git clone https://github.com/yourusername/Nobat-Doctor-Crawler.git
+       cd Nobat-Doctor-Crawler
    
 2. Install the required packages:
   
-   ```pip install -r requirements.txt```
+     pip install -r requirements.txt
    
 ## Usage
 Run the crawler using the following command:
 
 
-    ```python crawler.py```
+    python crawler.py
 
 The extracted data will be stored in doctors_data.csv and the crawler's state in crawler_db.json.
 
