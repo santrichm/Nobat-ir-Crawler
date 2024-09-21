@@ -32,7 +32,7 @@ This project is a web crawler that collects information about doctors from [noba
    
 2. Install the required packages:
   
-     pip install -r requirements.txt
+       pip install -r requirements.txt
    
 ## Usage
 Run the crawler using the following command:
